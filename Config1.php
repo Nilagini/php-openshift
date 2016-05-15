@@ -6,6 +6,6 @@
   // define('DB_NAME', 'bbms');
 	define('DB_USERNAME', 'adminRXeACtm');
  define('DB_PASSWORD', 'GEKWxRaUn3gM');
-define('DB_HOST', 'https://php-bloodbankms.rhcloud.com');
+define('DB_HOST', '127.6.108.2');
  define('DB_NAME', 'php');
 ?>
