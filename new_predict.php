@@ -1,6 +1,7 @@
 <?php
 include_once './DbConnect1.php';
 function createNewPrediction() {
+	echo "nilasini";
          $response = array();
         $bloodgroup = $_POST["Blood_group"];
         $location = $_POST["Location"];
